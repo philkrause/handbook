@@ -6,7 +6,7 @@
 
 ## [Basic Git Merge Instructions](/handbook/resources/basic-git-merge)
 
-## [Git Cheat Sheet](/handbook/resources/Git-Cheat-Sheet.md)
+## [Git Cheat Sheet](/handbook/resources/git-cheat-sheet.md)
 
 ## [Shell commands we like](/handbook/resources/bash/commands-we-like)
 
